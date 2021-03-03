@@ -1,0 +1,2 @@
+# UnityShaderGraphOutlineEffect
+UnityShaderGraphOutlineEffect
